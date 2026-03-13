@@ -13,6 +13,17 @@ Originalmente creada para optimizar el post-procesamiento de datos recuperados m
 * **Menú intuitivo:** El programa se maneja mediante un menú intuitivo e interactivo que te lleva paso a paso por cada fase del proceso.
 * **Manejo de excepciones:** Las funciones se agrupan en bloques try-except para el manejo de excepciones y errores de modo que se evita el cierre abrupto.
 
+## Requisitos:
+* **termcolor** para la interfaz visual.
+* **python3**
+
+## Instalación
+```bash
+git clone [https://github.com/Tlacaele1/MovingOut.git](https://github.com/Tlacaele1/MovingOut.git)
+cd MovingOut
+pip3 install -r requirements.txt
+```
+
 ## Estructura del proyecto:
 ```text
 ├── main.py              # Punto de entrada y ciclo principal
@@ -23,7 +34,8 @@ Originalmente creada para optimizar el post-procesamiento de datos recuperados m
 │   ├── operaciones.py   # Operaciónes mover, copiar y ver.
 │   ├── rutas.py	     # Validación de las rutas proporcionadas por el usuario.  
 │   └── utils.py	     # Salida del programa.  
-├──README.md
+├── requirements.txt
+├── README.md
 └── .gitignore           # Exclusión de archivos compilados (__pycache__)
 ```
 
@@ -31,4 +43,8 @@ Originalmente creada para optimizar el post-procesamiento de datos recuperados m
 ## Uso:
 ```bash
 python3 main.py
+```
 
+```markdown
+---
+*Pa la Wera, por las horas de diversión en Moving Out! y por ser el mejor soporte en cada línea de código.*
