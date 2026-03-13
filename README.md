@@ -19,7 +19,7 @@ Originalmente creada para optimizar el post-procesamiento de datos recuperados m
 
 ## Instalación
 ```bash
-git clone [https://github.com/Tlacaele1/MovingOut.git](https://github.com/Tlacaele1/MovingOut.git)
+git clone https://github.com/Tlacaele1/MovingOut.git
 cd MovingOut
 pip3 install -r requirements.txt
 ```
@@ -47,4 +47,4 @@ python3 main.py
 
 ```markdown
 ---
-*Pa la Wera, por las horas de diversión en Moving Out! y por ser el mejor soporte en cada línea de código.*
+*Pa la Wera, por las horas de diversión en MovingOut! (y por escuchar mis insufribles debuggeos).*
