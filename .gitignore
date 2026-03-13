@@ -1,0 +1,8 @@
+#Compilados de python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+#Archivos de editor de textos
+.vscode/
